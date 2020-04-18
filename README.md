@@ -18,6 +18,8 @@ Under the Education section of the resume, these are the areas of interest:
 * Year education accolade achieved
 * Special Certifications earned by the user
 
+![Expert System](https://miro.medium.com/max/2694/1*7KOUq-ORxgMnkZxeOC8SYQ.jpeg "Expert System Module")
+
 Starter Questions:
 * Do you have any academic degrees/What academic degrees have you attained?
     * In what field?
